@@ -57,5 +57,20 @@ footer {
 
 .form {
     text-align: left;
-    
+}
+
+.form-and-text {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+.form-container {
+    margin: 5rem;
+    padding: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
 }
